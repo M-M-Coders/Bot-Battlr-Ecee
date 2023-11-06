@@ -12,7 +12,8 @@ Welcome to the Bot Battlr App! Here, you can manage your personal Bot Army. Our 
 - ![Screenshot from 2023-11-06 09-14-01](https://github.com/eceechain/Bot-Battlr/assets/144310680/980aa004-772d-4eb6-894a-bc57337d031e)
 ## LIVE LINK
 
-To access the app, visit https://bot-battlr-brown.vercel.app/
+To access the app, visit : https://bot-battlr-ecee.vercel.app/
+
 
 
 ********
