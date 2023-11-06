@@ -2,16 +2,14 @@
 # Phase 2 Week 2 Code Challenge
 
 *****
-### Author : Rasmi Noel Nov 5 2023
+### Author : Jared Amima Nov 5 2023
 ****
 ## Project Description
-This project is an app that allows a user to build a Bot Army from an existing bot collection. From the collection, the user can enlist a specific bot to the army and even retire the bot from the army. All actions are persistent and they change the database. To view the details of a bot, click on the bot name.
+Welcome to the Bot Battlr App! Here, you can manage your personal Bot Army. Our collection includes various  bots, allowing you to build your dream team.
 ******
 
 ## SCREENSHOTS
-- <img width="1287" alt="Screenshot 2023-11-05 at 16 39 52" src="https://github.com/rasmiNoel/bot_battlr/assets/144110040/87dd2fbb-6fc1-4d69-bb22-4ca928dd22ce">
-- <img width="1287" alt="Screenshot 2023-11-05 at 16 38 53" src="https://github.com/rasmiNoel/bot_battlr/assets/144110040/f3df4bf0-6e37-458f-891c-a5a667780025">
-
+- ![Screenshot from 2023-11-06 09-14-01](https://github.com/eceechain/Bot-Battlr/assets/144310680/980aa004-772d-4eb6-894a-bc57337d031e)
 ## LIVE LINK
 
 To access the app, visit https://bot-battlr-brown.vercel.app/
@@ -75,9 +73,9 @@ Click NPM start and launch on a server to view the live link, then open [http://
 
 *****
 ## Contact Information
-* Email : rasminoel@gmail.com
+* Email : jaredamima4@gmail.com
 
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 rasmi Noel
+Copyright (c) 2023 jared amima
