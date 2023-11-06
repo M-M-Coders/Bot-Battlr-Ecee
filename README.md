@@ -68,8 +68,7 @@ Click NPM start and launch on a server to view the live link, then open [http://
 3. JavaScript
 4. Json Server
 5. React
-6. Nord
-7. Lucid Icon Pack
+6. Lucid Icon Pack
 
 *****
 ## Contact Information
